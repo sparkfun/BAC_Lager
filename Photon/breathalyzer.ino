@@ -8,7 +8,7 @@
  * 
  * Data channel: https://data.sparkfun.com/sfe_bac
  * 
- * There's really only one appropiate license for this code:
+ * There's really only one appropriate license for this code:
  * https://en.wikipedia.org/wiki/Beerware
  */
 
